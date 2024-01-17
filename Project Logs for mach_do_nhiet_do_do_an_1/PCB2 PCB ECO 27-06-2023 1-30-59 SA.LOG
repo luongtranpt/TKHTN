@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=+3V3 Pin=R20-1
+Added Member To Class: ClassName=Sheet3 Member=Component STM1 STM32F103C8T6
+Added Room: Name=Sheet3
